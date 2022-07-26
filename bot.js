@@ -72,7 +72,7 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
-    success: 'Takaenda Done!',
+    success: 'Done!',
     admin: '*This feature is only for admin!*',
     botAdmin: '*zim bot  must be admin first!*',
     owner: '*this feature is only for zimbot owner*',
