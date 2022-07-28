@@ -33,10 +33,10 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['918078431510',''] //owner number +918589024879
+global.owner = ['918078431510',''] //owner number +918078431510
 global.wame = ['918078431510'] 
-global.pemilik = ['918078431510'] //owner number +918589024879
-global.premium = ['918078431510'] //premium number +918589024879
+global.pemilik = ['918078431510'] //owner number +918078431510
+global.premium = ['918078431510'] //premium number +918078431510
 global.pengguna = '😈CHAATHAN😈' //username
 global.footer = '😈CHAATHAN😈'
 global.botnma = 'TREX' //bot name
